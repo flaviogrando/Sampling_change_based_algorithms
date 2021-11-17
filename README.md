@@ -1,2 +1,4 @@
-# Sampling_change_based_algorithms
+# Sampling change based algorithms
+
+
 Amplitude and phase estimations using sampling change based algorithms
